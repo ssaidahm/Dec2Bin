@@ -1,5 +1,10 @@
 # Dec2Bin
 
+![Dec2Bin2](https://user-images.githubusercontent.com/61160586/172029091-7a62ee88-45eb-4432-a3ee-e059238e0590.png)
+
+![Dec2Bin](https://user-images.githubusercontent.com/61160586/172029095-350c65ba-b093-4b01-b6d4-ce8d903a207d.png)
+
+
 **Tier:** 1-Beginner
 
 Binary is the number system all digital computers are based on.
